@@ -103,7 +103,7 @@ $> google-chrome http://localhost:5000/
 - `passport` - JWT authorization
 - `axios` - HTTP requests
 - `PostgreSQL` - Azure server
-- other dependencies you can see in [`package.json`](https://github.com/serfati/soupify/blob/master/package.json)
+- other dependencies you can see in [`package.json`](https://github.com/OrelRevach/Soupify-FrontEnd/blob/main/package.json)
 
 ## 📜 Scripts:
 
