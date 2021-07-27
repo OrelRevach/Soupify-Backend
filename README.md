@@ -15,7 +15,7 @@ This RESTful API deployed with the help of [`Heroku`](https://heroku.com/) which
 ## Linked Repositories
 
 - [Front-end Web client](https://github.com/OrelRevach/Soupify-FrontEnd)
-- [API Specification v1.2](https://github.com/OrelRevach/Soupify-Backend)
+- [API Specification v1.2](https://github.com/OrelRevach/Soupify-API)
 ---
 
 ## 📃 Documentation
