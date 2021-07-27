@@ -14,13 +14,13 @@ This RESTful API deployed with the help of [`Heroku`](https://heroku.com/) which
 
 ## Linked Repositories
 
-- [Front-end Web client](https://github.com/uspeit/webenv-assignment3-client)
-- [API Specification v1.2](https://github.com/Serfati/soupify-api-specs)
+- [Front-end Web client](https://github.com/OrelRevach/Soupify-FrontEnd)
+- [API Specification v1.2](https://github.com/OrelRevach/Soupify-Backend)
 ---
 
 ## 📃 Documentation
 
-- [OpenApi 3 Specification](https://app.swaggerhub.com/apis-docs/serfatio/Soupify/1.2) - files in [API](https://github.com/Serfati/soupify-v1/tree/master/API/OpenAPI) folder
+- [OpenApi 3 Specification](https://app.swaggerhub.com/apis-docs/serfatio/Soupify/1.2)
 - [Vue.js Web Application](https://uspeit.github.io/webenv-assignment3-client-dist/#/)
 - Default Users: 
   - Admin - root: toor!1
@@ -118,6 +118,6 @@ $> google-chrome http://localhost:5000/
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2020 © <a href="https://github.com/serfati" target="_blank">serfati</a>.
+- Copyright 2020 © <a href="https://github.com/OrelRevach" target="_blank">OrelRevach</a>.
 
 **[⬆ back to top](#description)**
