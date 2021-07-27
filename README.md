@@ -45,7 +45,7 @@ You can modify or contribute to this project by following the steps below:
 
   ```shell
   # Clone the repository
-  $> git clone https://github.com/serfati/soupify.git
+  $> git clone https://github.com/OrelRevach/Soupify-FrontEnd.git
 
   # Navigate to the directory
   $> cd soupify
@@ -59,10 +59,6 @@ You can modify or contribute to this project by following the steps below:
   $> npm install
   ```
 
-- Create a copy of [`.env.example`](https://github.com/Serfati/soupify/blob/master/.env.example) file to `.env` <br>
-   ```bash
-   $> cp .env.example .env
-   ```
 - Set up your environment in the new `/.env` file
 
     You can change the selected environment 
